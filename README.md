@@ -31,7 +31,8 @@ I am a passionate and results-driven data analyst with a strong foundation in ac
 **Trident Insurance – Attachment**  
 *Apr 2021 – Jun 2021* | Nyeri, Kenya  
 - Analyzed client risk and assisted with policy documentation
-
+  
+---
 ## 🎓 Education
 
 **BSc. Actuarial Science**  
