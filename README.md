@@ -12,6 +12,15 @@
 I am a passionate and results-driven data analyst with a strong foundation in actuarial science and hands-on experience in HR analytics, insurance underwriting, and data storytelling. With a deep interest in uncovering trends and patterns, I specialize in transforming raw data into meaningful insights that drive informed decision-making. My expertise lies in using Python, SQL, Power BI, and Excel to solve real-world business problems. Currently, I am serving as a Data Analyst Intern at Chuka University, where I analyze HR data to support institutional strategies. I am committed to continuous learning, collaboration, and delivering data-driven impact across sectors..
 
 ---
+## 🧠 Skills Summary
+
+**Languages:** Python, SQL  
+**Frameworks:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn  
+**Tools:** Excel, PowerPoint, Power Query, MySQL, Power BI, Tableau  
+**Platforms:** Jupyter Notebook, Google Colab  
+**Soft Skills:** Analytical thinking, attention to detail, time management, teamwork  
+
+---
 ## 💼 Work Experience
 
 **Chuka University – Intern**  
@@ -59,16 +68,6 @@ Karatina University | 2016 – 2021 | Second Class Honors, Upper Division
 ### 🔹 Maji Ndogo Water Project (SQL, Power BI)
 - Cleaned and processed water usage data using SQL
 - Built interactive dashboards in Power BI to track distribution and identify underserved areas
-
----
-
-## 🧠 Skills Summary
-
-**Languages:** Python, SQL  
-**Frameworks:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn  
-**Tools:** Excel, PowerPoint, Power Query, MySQL, Power BI, Tableau  
-**Platforms:** Jupyter Notebook, Google Colab  
-**Soft Skills:** Analytical thinking, attention to detail, time management, teamwork  
 
 ---
 
