@@ -12,7 +12,44 @@
 I am a passionate and results-driven data analyst with a strong foundation in actuarial science and hands-on experience in HR analytics, insurance underwriting, and data storytelling. With a deep interest in uncovering trends and patterns, I specialize in transforming raw data into meaningful insights that drive informed decision-making. My expertise lies in using Python, SQL, Power BI, and Excel to solve real-world business problems. Currently, I am serving as a Data Analyst Intern at Chuka University, where I analyze HR data to support institutional strategies. I am committed to continuous learning, collaboration, and delivering data-driven impact across sectors..
 
 ---
+## 💼 Work Experience
 
+**Chuka University – Intern**  
+*April 2024 – Present* | Chuka, Kenya  
+- Collected and analyzed HR data for 500+ staff  
+- Recommended improvements based on staff hospital preference analysis  
+
+**GA Insurance – Assistant Underwriter**  
+*Jan 2022 – Jul 2022* | Nairobi, Kenya  
+- Evaluated client risk and determined premium coverage levels  
+- Ensured compliance and accurate policy underwriting  
+
+**GA Insurance – Underwriting Intern**  
+*Jul 2021 – Dec 2021* | Nairobi, Kenya  
+- Supported documentation and case assessments  
+
+**Trident Insurance – Attachment**  
+*Apr 2021 – Jun 2021* | Nyeri, Kenya  
+- Analyzed client risk and assisted with policy documentation
+
+## 🎓 Education
+
+**BSc. Actuarial Science**  
+Karatina University | 2016 – 2021 | Second Class Honors, Upper Division  
+
+---
+
+## 📜 Certifications
+
+- Dataquest – Data Analysis with Python *(In Progress)*  
+- ALX Africa – Data Science (2023–2024)  
+- CFI – Business Intelligence and Data Analyst (2023)  
+- CFI & ALX – Financial Modeling and Valuation Analyst (2022)  
+- KASNEB – CIFA Foundation and Intermediate Level (2021–2022)  
+
+---
+
+---
 ## 📈 Projects
 
 ### 🔹 Profitable App Profiles (Python)
@@ -32,45 +69,6 @@ I am a passionate and results-driven data analyst with a strong foundation in ac
 **Tools:** Excel, PowerPoint, Power Query, MySQL, Power BI, Tableau  
 **Platforms:** Jupyter Notebook, Google Colab  
 **Soft Skills:** Analytical thinking, attention to detail, time management, teamwork  
-
----
-
-## 🎓 Education
-
-**BSc. Actuarial Science**  
-Karatina University | 2016 – 2021 | Second Class Honors, Upper Division  
-
----
-
-## 📜 Certifications
-
-- Dataquest – Data Analysis with Python *(In Progress)*  
-- ALX Africa – Data Science (2023–2024)  
-- CFI – Business Intelligence and Data Analyst (2023)  
-- CFI & ALX – Financial Modeling and Valuation Analyst (2022)  
-- KASNEB – CIFA Foundation and Intermediate Level (2021–2022)  
-
----
-
-## 💼 Work Experience
-
-**Chuka University – Intern**  
-*April 2024 – Present* | Chuka, Kenya  
-- Collected and analyzed HR data for 500+ staff  
-- Recommended improvements based on staff hospital preference analysis  
-
-**GA Insurance – Assistant Underwriter**  
-*Jan 2022 – Jul 2022* | Nairobi, Kenya  
-- Evaluated client risk and determined premium coverage levels  
-- Ensured compliance and accurate policy underwriting  
-
-**GA Insurance – Underwriting Intern**  
-*Jul 2021 – Dec 2021* | Nairobi, Kenya  
-- Supported documentation and case assessments  
-
-**Trident Insurance – Attachment**  
-*Apr 2021 – Jun 2021* | Nyeri, Kenya  
-- Analyzed client risk and assisted with policy documentation  
 
 ---
 
