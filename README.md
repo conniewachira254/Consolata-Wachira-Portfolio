@@ -75,6 +75,7 @@ Karatina University | 2016 – 2021 | Second Class Honors, Upper Division
 
 English | Kiswahili | Kikuyu 
 
+---
 ## 📄 Download My CV
 
 📎 [Click here to download my resume (Word)](./Consolata_Wachira_CV_FINAL.docx)
