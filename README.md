@@ -49,7 +49,6 @@ Karatina University | 2016 – 2021 | Second Class Honors, Upper Division
 
 ---
 
----
 ## 📈 Projects
 
 ### 🔹 Profitable App Profiles (Python)
@@ -70,7 +69,6 @@ Karatina University | 2016 – 2021 | Second Class Honors, Upper Division
 **Platforms:** Jupyter Notebook, Google Colab  
 **Soft Skills:** Analytical thinking, attention to detail, time management, teamwork  
 
----
 ---
 
 ## 🗣️ Languages
