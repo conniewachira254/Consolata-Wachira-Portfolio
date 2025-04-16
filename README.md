@@ -50,12 +50,15 @@ Karatina University | 2016 – 2021 | Second Class Honors, Upper Division
 ---
 
 ## 📜 Certifications
+🧠 Data Analysis with Python – Dataquest (In Progress, 2025)
 
-- Dataquest – Data Analysis with Python *(In Progress)*  
-- ALX Africa – Data Science (2023–2024)  
-- CFI – Business Intelligence and Data Analyst (2023)  
-- CFI & ALX – Financial Modeling and Valuation Analyst (2022)  
-- KASNEB – CIFA Foundation and Intermediate Level (2021–2022)  
+🎓 Data Science Certificate – ALX Africa (2024)
+
+📊 Business Intelligence and Data Analyst (BIDA) – CFI (2023)
+
+💰 Financial Modeling & Valuation Analyst (FMVA) – CFI & ALX (2022)
+
+📈 CIFA Foundation and Intermediate Level – KASNEB (2022)
 
 ---
 
